@@ -1,0 +1,7 @@
+{
+  "name": "mi-tarea",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
